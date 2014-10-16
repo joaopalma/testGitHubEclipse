@@ -5,3 +5,5 @@ def writemsg(msg):
     
 def function(a):
     print a
+def function2(b):
+    print b
