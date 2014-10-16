@@ -1,6 +1,8 @@
+import functions
+
 print "hello world" 
 print "adsf"
 print "<f<d"
 
-def writemsg(msg):
-    print msg
+print functions.writemsg("hello")
+print functions.function1(3, 4)
