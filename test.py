@@ -1,6 +1,6 @@
 import functions
 
-print "hello world" 
+print "hello joanico, como estamo?"
 print "adsf"
 print "<f<d"
 
